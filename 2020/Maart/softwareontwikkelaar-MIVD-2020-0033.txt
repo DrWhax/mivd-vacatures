@@ -1,0 +1,63 @@
+Stand­plaats Zoetermeer
+Contractduur 2 jaar
+Uren per week 36 - 40
+Maand­salaris €4.389 - €5.643
+Salaris­niveau schaal 12
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 12 april Nog 14 dagen
+Vacaturenummer 543325
+Plaatsingsdatum 18 maart 2020
+Dienst­verband Tijdelijke aanstelling met uitzicht op vaste aanstelling
+
+Functie­omschrijving
+
+Je vrienden denken dat je gewoon ‘iets in de ICT’ doet. Intussen werk jij vanuit Zoetermeer in het geheim aan de veiligheid van 17 miljoen Nederlanders. Want als softwareontwikkelaar bij de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en Militaire Inlichtingen- en Veiligheidsdienst (MIVD) werk je met misschien wel de belangrijkste informatiesystemen van Nederland. Mede dankzij jouw technische kennis kunnen de inlichtingenteams dreigingen en risico’s voor de nationale veiligheid opsporen.
+
+Dit maakt jouw baan uniek
+De AIVD en MIVD bundelen de krachten om de nationale veiligheid te bewaken en doen samen onderzoek naar mogelijke risico’s en bedreigingen. Dit doen we op basis van gericht verkregen data uit allerlei bronnen, zoals computers, smartphones, applicaties en communicatiesystemen, of data die we opvangen via satellieten. Jij ontwikkelt software om deze gigantische hoeveelheid data beschikbaar en bewerkbaar te maken voor de inlichtingenofficiers. Dit doe je in nauwe samenwerking met de andere ICT-experts bij de Joint Sigint Cyber Unit. Deze gezamenlijke eenheid van de AIVD en MIVD is gespecialiseerd in signals intelligence (sigint) en cyber.
+
+Je begrijpt dat we bij de geheime diensten werken met de nieuwste technologieën en state-of-the-art inlichtingensystemen. Maar ook onze tegenstanders, bijvoorbeeld terroristische organisaties en spionagenetwerken, hebben wat in hun mars. Het is zaak om ze steeds een stap voor te blijven. Daarom haal jij elke dag opnieuw het maximale uit technologie. En zorgen wij ervoor dat jij via opleidingen, boeiende (internationale) samenwerkingsverbanden en conferenties up-to-date blijft als het gaat om de nieuwste technieken, software, databases, gegevensbeveiliging en ontwikkelomgevingen.
+
+Eén ding is zeker: voor jou is geen werkdag hetzelfde. De ene dag help je mee met een onderzoek naar een potentiële terrorist, de volgende dag gaat het over het importeren van een nieuwe datastroom, en een andere keer over de doorontwikkeling van onze clustersystemen. Dit doe je in het geheim, en dat is ook de reden dat je bij ons veel bijzondere relaties opbouwt. Veel informatie, ervaringen en emoties kun je niet met je familie en vrienden delen. Maar juist wel met je collega’s. Daardoor heerst bij ons een sterke onderlinge verbondenheid die er mede voor zorgt dat de meeste mensen lang bij de organisatie blijven werken. We borrelen elke maand en je kunt mee op wintersport- of zeilvakantie of samen sporten.
+
+We zoeken nieuwe collega's met meer frontend- of backend-kennis en -ervaring. Uiteraard ben je als fullstack-ontwikkelaar ook meer dan welkom.
+
+Functie-eisen
+
+    Je hebt minimaal een relevant hbo-diploma, bijvoorbeeld informatica.
+    Je hebt brede kennis van en ervaring met programmeertalen als Java, Python en met systemen als Git en Linux.
+    Je hebt aan de frontendkant bij voorkeur ervaring met React en TypeScript.
+    Je hebt aan de backendkant bij voorkeur ervaring met Hadoop, Spark, Hive en Spring Boot.
+    Je bent bij voorkeur bekend bent met Docker, Kubenetes of Microservices.
+    Je durft de grenzen van de wet op te zoeken en beschikt over de juiste combinatie van creativiteit, verantwoordelijkheidsgevoel en de drive om resultaten neer te zetten.
+    Je staat open voor vernieuwende ideeën.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 12
+    Salaris­omschrijving
+
+    Dit salaris is gebasseerd op een 38-urige werkweek.
+    Maand­salaris Min €4.389 – Max. €5.643 (bruto)
+    Dienst­verband Tijdelijke aanstelling met uitzicht op vaste aanstelling
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 36
+    Maximaal aantal uren per week 40
+
+Overige arbeids­voorwaarden
+
+Naast het salaris en vakantiegeld kun je rekenen op een eindejaarsuitkering van 8,33%. Defensie hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer maximaal 75% betaald ouderschapsverlof (onder voorwaarden), studiefaciliteiten, een extra verlofregeling voor ouderen en een vergoeding woon-werkverkeer.
+Bijzonderheden
+
+    Voor meer informatie over het sollicitatieproces kun je mailen naar bs.vacatures.D@mindef.nl.
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). Het kan je sollicitatie en eventuele loopbaan bij de MIVD schaden en je veiligheid in gevaar brengen.
+    Een veiligheidsonderzoek op niveau A+, eventueel een psychologische onderzoek, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de MIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook je eventuele partner en andere mensen in je omgeving worden mogelijk gescreend.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer vijf maanden in beslag kan nemen.
+
+Meer over jouw toekomstige afdeling
+
+Binnen de Joint Sigint Cyber Unit (JSCU) werk jij bij het Bureau ICT Tooling. Deze afdeling is dé schakel bij het omzetten van sigint- en cyberdata naar bruikbare informatie voor de inlichtingenteams van zowel de MIVD als AIVD, in Nederland en ver daarbuiten. De ICT-experts van de JSCU, zoals cryptologen, digitaal forensisch specialisten, data-scientists, hackers en softwareontwikkelaars zoals jij, leveren hoogwaardige technische capaciteit voor het verwerken van complexe data uit diverse bronnen. Boeiend: elke dag werk jij dicht tegen de grens van wat kan en mag om potentiële tegenstanders een stap voor te blijven. En daarin krijg je veel vrijheid: onze zelfsturende DevOps-teams werken agile en je krijgt alle ruimte om je creativiteit in te zetten.
+
