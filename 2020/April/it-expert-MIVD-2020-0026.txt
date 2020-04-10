@@ -1,0 +1,66 @@
+Stand­plaats Den Haag
+Contractduur 2 jaar
+Uren per week 38 - 40
+Maand­salaris €4.389 - €5.643
+Salaris­niveau schaal 12
+Niveau Universitair Master
+
+Vakgebied ICT
+Reageren voor 3 mei
+Vacaturenummer 547289
+Plaatsingsdatum 8 april 2020
+Dienst­verband Tijdelijke aanstelling met uitzicht op vaste aanstelling
+
+Functie­omschrijving
+
+Veiligheid en informatievoorziening staan voor de Militaire Inlichtingen- en Veiligheidsdienst nooit stil, net als jij. Als IT-expert ga jij voor continue verbetering. Met jouw kennis til je de IV- en ICT-voorzieningen van de veiligheidsdienst in Den Haag naar een hoger niveau. Ook neem je de rol van product-owner, scrum-master of lead-engineer op je. Zo draag jij jouw steentje bij aan de bescherming van Nederlandse belangen.
+
+Je draagt bij aan de doorontwikkeling van algemene en specifieke IT-securityservices en appliances voor privileged accountmanagement, identity- en accessmanagement, gebruikersauthenticatie en securitylogging en monitoring. Dit doe je ter ondersteuning van een security operations center en security information- en eventmanagement, public key infrastructure, netwerk access control, intrusion detection en prevention systems, datavercijfering en audit- en beheerzones. Ook ben je betrokken bij het borgen van business continuity en disaster recovery bij de IT-securityservices en appliances.
+
+Het implementeren van IT-security in cloudtechnologie binnen bestaande en toekomstige normenkaders kent voor jou geen geheimen. Jij schept genoegen in het ontdekken, volgen en vertalen van marktontwikkelingen naar toepassingen op het vlak van IT-security. Je deinst er dan ook niet voor terug om op de zeepkist te gaan staan om nieuwe (technische) mogelijkheden te presenteren en de dialoog tussen stakeholders en technici te faciliteren.
+
+Door knelpunten te signaleren, verbetervoorstellen te doen en ontwikkeltrajecten te begeleiden zorg je voor de doorontwikkeling en maximale effectiviteit van informatiesystemen en infrastructuur binnen het Infosec-werkterrein van de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). Dit doe je ook door relevante kwaliteitscriteria op te stellen en door lifecyclemanagement. Je analyseert en evalueert ervaringen van gebruikers, ontwikkelaars en systeembeheer. En doordat je overleggen voert over knelpunten en oplossingen, en ontwikkelingen deelt in je vakgebied, ben je voor je omgeving een vraagbaak en een klankbord. Je volgt de ontwikkelingen in de markt en omgeving en vertaalt dit door naar kansen of gevolgen voor het IV/ICT-landschap van de MIVD. Als expert zorg je voor een zo kort mogelijke doorlooptijd van behoefte naar productie en een stabiele productieomgeving. Je draagt bij aan het plannen van werk en bewaken van afhankelijkheden, herkent technische risico’s en treedt passend op. Daarnaast vervul je de rol van technisch product-owner, lead-engineer of scrum-master. In je vakgebied ben je een autoriteit en verstrek je kaders en richtlijnen aan beheerders, projectmedewerkers en andere collega’s.
+
+Ook als je expertise buiten bovenstaand kader valt, maar je denkt dat je een wezenlijke bijdrage aan de IT-securityvoorzieningen van de MIVD kunt leveren, ontvangen we graag je reactie.
+Functie-eisen
+
+    Je hebt een relevante academische opleiding afgerond of hebt een gelijkwaardig niveau.
+    Je hebt minstens twee jaar werkervaring en bezit actuele certificering(en) in je vakgebied.
+    Je hebt leidinggevende of coördinerende ervaring.
+    Je hebt ervaring met hedendaagse ontwikkel- en beheermethodes zoals scrum, kanban, DevOps, SAFe en ITIL4.
+    Je hebt ervaring als scrum-master of product-owner.
+    Je hebt bij voorkeur ervaring in de opsporing of in het inlichtingen- en veiligheidsdomein.
+    Je spreekt en schrijft goed Engels.
+    Je gaat voor kwaliteit van je eigen werk en dat van je team.
+    Je weet de IT-behoeften van de business te doorgronden en te vertalen naar verbeteringen of nieuwe oplossingen.
+    Je hebt diepgaande kennis op het eigen vakgebied en legt verbanden daarbuiten.
+    Je bent analytisch sterk, nieuws- en leergierig en je hebt een creatief denkvermogen.
+    Je bent communicatief vaardig en denkt in mogelijkheden.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 12
+    Salaris­omschrijving
+
+    Salaris gebaseerd op een 38-urige werkweek
+    Maand­salaris Min €4.389  Max. €5.643 (bruto)
+    Dienst­verband Tijdelijke aanstelling met uitzicht op vaste aanstelling
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 38
+    Maximaal aantal uren per week 40
+
+Overige arbeids­voorwaarden
+
+Naast het salaris en vakantiegeld kun je rekenen op een eindejaarsuitkering van 8,33%. Defensie hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer maximaal 75% betaald ouderschapsverlof (onder voorwaarden), studiefaciliteiten, een extra verlofregeling voor ouderen en een vergoeding woon-werkverkeer.
+Bijzonderheden
+
+    Wees terughoudend met het bekendmaken dat je voor de Militaire Inlichtingen- en Veiligheidsdienst (MIVD) wilt werken. Dit levert mogelijk risico’s voor je op.
+    Een veiligheidsonderzoek is onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de MIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+
+Meer over jouw toekomstige afdeling
+
+Je komt te werken bij de unit IT. Een hoogwaardige IV/ICT-omgeving is voor de Militaire Inlichtingen- en Veiligheidsdienst (MIVD) van vitaal belang. De unit IT ondersteunt de inlichtingen- en veiligheidsprocessen van de MIVD door het leveren van informatiesystemen. Onze kernwaarden zijn klantgerichtheid, adaptief vermogen en resultaatgerichtheid.
+
+We werken in multidisciplinaire IT-teams die integraal verantwoordelijk zijn voor een groep van diensten, applicaties en systemen. De disciplines businessanalyse, architectuur, innovatie en projectmanagement horen ook bij onze unit. Daarnaast onderhouden we nationale en internationale relaties op het gebied van informatievoorziening, in het bijzonder ten behoeve van militaire operaties.
+
