@@ -1,0 +1,67 @@
+Stand­plaats Zoetermeer
+Werkplekken 2
+Contractduur 2 jaar
+Uren per week 32 - 36
+Maand­salaris €3.256 - €5.003
+Salaris­niveau schaal 11
+Niveau HBO bachelor
+
+Vakgebied ICT
+Reageren voor 7 juni
+Vacaturenummer 2020/053
+Plaatsingsdatum 8 mei 2020
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Ben jij een technisch specialist die energie krijgt van het beoordelen van gestructureerde en ongestructureerde data, afkomstig uit verschillende bronnen zoals hacking of de interceptie van glasvezel? Durf jij de verantwoordelijkheid aan om als eerste techneut de operationeel verworven data te analyseren en wil je dat jouw bijdrage invloed heeft op de verdere verwerking en ontsluiting naar inlichtingenteams? Dan zijn we op zoek naar jou.
+
+Bij de Joint Sigint Cyber Unit zijn we op zoek naar enthousiaste technisch specialisten met een opleiding en/of werkervaring binnen het IT-, data- of cyberdomein. Jouw drive om verworven data te ontdekken en te analyseren ten behoeve van inlichtingenteams is hierbij een belangrijke factor voor succes. Je werkt in een team samen met technische collega’s en vormt samen met hen een advies over het gehele proces van dataontsluiting; van intake tot een voor het team werkbare data in applicaties. Je werkt met unieke operationele data waarbij jij een adviesrol hebt hoe deze data voor inlichtingenteams kan worden ingezet.
+
+Je komt terecht in een dynamische, technische organisatie waar je veel nieuwe technieken en skills kan leren door interactie met collega’s, maar ook door interne en externe cursussen te volgen. We verwachten in jou iemand te vinden die creatief, nieuwsgierig en een doener is en de uitdaging aandurft, want alleen zo kunnen we voorop lopen om Nederland veiliger te maken.
+
+Functie-eisen
+
+Je beschikt over hbo- of academisch niveau. Daarnaast heb of ben je:
+
+    een teamplayer die beschikt over de juiste sociale maar ook technische vaardigheden waardoor je in staat bent om zowel binnen de Joint Sigint Cyber Unit ('techneuten') als binnen de inlichtingenteams van de Algemene Inlichtingen- en Veiligheidsdienst en Militaire Inlichtingen- en Veiligheidsdienst een effectieve vertrouwensrelatie te onderhouden;
+    goede beheersing van Python en/of R en het kunnen lezen van broncode in gangbare objectgeoriënteerde programmeertalen zoals Java en/of C. Beheersing van alle genoemde scripting- en programmeertalen is een pre;
+    bij voorkeur brede kennis van Linux, evenals kennis van en ervaring met Hadoop- en Elastic-gebaseerde clusters;
+    bij voorkeur kennis van en ervaring met het bepalen van kwaliteit van data. Dit geldt ook voor ervaring met het omgaan met verschillende data-formaten;
+    bij voorkeur kennis van en ervaring van applicaties binnen het applicatielandschap voor dataverwerking en ontsluiting, zoals RestAPI’s en webservices, grafische interfaces als Kibana/Hue, maar ook oplossingen als Docker/Kubernetes, Git/CI/CD.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 11
+    Salaris­omschrijving
+
+    Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 219,- en loopt op tot maximaal € 667,- bruto per maand bij een volledige werkweek.
+    Maand­salaris Min €3.256  Max. €5.003 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een individueel keuzebudget (IKB). Het IKB bestaat uit geld (16,37% van je brutojaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget omzetten in verlof en andersom of besteden aan fiscaalvriendelijke doelen. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige vergoeding van je ov-reiskosten woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof.
+
+Bijzonderheden
+
+    Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de Algemene Inlichtingen- en Veiligheidsdienst (AIVD).
+    Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+    Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatieknop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten (in .doc-, .txt-, .rtf- of .docx-bestand).
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+    Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+    Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer zes maanden in beslag kan nemen.
+    De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+
+Meer over jouw toekomstige afdeling
+
+De Joint Sigint Cyber Unit (JSCU) is een gezamenlijke eenheid van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en Militaire Inlichtingen- en Veiligheidsdienst (MIVD). De meeste medewerkers zijn werkzaam in Zoetermeer, andere locaties zijn Den Haag, Eibergen en Burum. Als onlosmakelijk onderdeel van de AIVD en de MIVD en het inlichtingenproces geeft de JSCU toegang tot informatie uit technische bronnen en biedt ze unieke expertise en ondersteuning op het gebied van sigint en cyber. De JSCU is een ondersteunende unit die het maximale uit technologie haalt ten behoeve van inlichtingen en veiligheid.
+
+Bureau ICT Tooling
+
+Binnen de JSCU werk je bij bureau ICT Tooling. Dit bureau levert onder meer hoogwaardige technische capaciteit voor het verwerken van complexe data uit diverse bronnen. Daarmee is het een onmisbare schakel bij het omzetten van sigint- en cyberdata naar bruikbare informatie van de inlichtingenteams van zowel de AIVD als de MIVD, in Nederland en ver daarbuiten.
