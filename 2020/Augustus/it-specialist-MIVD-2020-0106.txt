@@ -1,0 +1,64 @@
+Stand­plaats Zoetermeer
+Contractduur 2 jaar
+Uren per week 38
+Maand­salaris €4.389 - €5.643
+Salaris­niveau schaal 12
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 13 september
+Vacaturenummer 115-132
+Plaatsingsdatum 15 augustus 2020
+Dienst­verband Tijdelijke aanstelling met uitzicht op vaste aanstelling
+
+Functie­omschrijving
+
+Een grote hoeveelheid data ophalen uit internet- en telecomnetwerken. De nieuwe Wet op de inlichtingen- en veiligheidsdiensten 2017 maakt het mogelijk. Maar welke systemen en software gaan we hiervoor gebruiken? En hoe zorgen we dat verschillende datastromen bij de Algemene Inlichtingen- en Veiligheidsdienst en Militaire Inlichtingen- en Veiligheidsdienst bij de juiste mensen terechtkomen? Vraagstukken die jij als IT-specialist gaat oplossen. Dat maakt jou een belangrijke schakel in het bewaken van onze nationale veiligheid.
+
+Dit maakt jouw baan uniek
+
+Steeds meer activiteit vindt online plaats. De Algemene Inlichtingen- en Veiligheidsdienst en Militaire Inlichtingen- en Veiligheidsdienst mogen kabelinterceptie inzetten om communicatieverkeer tussen verdachte personen, zoals terroristen, jihadisten, spionnen en andere bedreigingen voor de nationale veiligheid in kaart te brengen. Het is daarmee van vitaal belang om deze targets in de online wereld te kunnen volgen.
+
+Als IT-specialist innoveer jij mee aan de techniek die beide diensten in staat stelt om inlichtingen uit kabelinterceptie te halen. Je komt in een team terecht met specialisten op het gebied van netwerkinfrastructuur, systeemarchitectuur en hoogvolume-IP-dataverwerking. Het uiteindelijke doel is om een inlichtingenproduct te bouwen uit kabelinterceptiedata. Samen in een team draag jij bij aan de realisatie, het beheer en de ontwikkeling van de keten die dat mogelijk maakt.
+
+Het ontwikkelen van zo’n keten gebeurt allemaal inhouse. Hierbij heb je zelf de vrijheid om de laatste state-of-the-arttechnieken te onderzoeken en toe te passen. Denk hierbij aan het bedenken en ontwikkelen van een Kafka-streamsapplicatie, het toepassen van nieuwe SDN-technieken of het uitbreiden van onze deploymentstraat met Chef/Ansible en Docker.
+
+Functie-eisen
+
+    Je hebt hbo- of wo-niveau door opleiding of ervaring.
+    Je hebt ervaring in een SRE- en/of DevOps-rol als onderdeel van een team.
+    Je hebt hoogwaardige IT-kennis, waaronder van Linux, en je beheerst verschillende programmeertalen, zoals Bash scripting, C/C++, Java en Python.
+    Je hebt ervaring met technieken als Kafka, Hive en Kubernetes.
+    Je hebt aantoonbare kennis van datacenternetworking, bijvoorbeeld door een Cisco CCNP-certificering en kennis van OTN.
+    Je volgt de technologische ontwikkelingen op de voet, met name op het gebied van telecommunicatie en internet.
+    Je hebt de drive om jezelf verder te ontwikkelen en durft initiatief te tonen.
+    Je beschikt over goede communicatieve eigenschappen, weet verbindingen te leggen en bent analytisch sterk.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 12
+    Salaris­omschrijving
+
+    Dit salaris is gebasseerd op een 38-urige werkweek.
+    Maand­salaris Min €4.389  Max. €5.643 (bruto)
+    Dienst­verband Tijdelijke aanstelling met uitzicht op vaste aanstelling
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 38
+    Maximaal aantal uren per week 38
+
+Overige arbeids­voorwaarden
+
+Naast het salaris en vakantiegeld kun je rekenen op een eindejaarsuitkering van 8,33%. Defensie hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer maximaal 75% betaald ouderschapsverlof (onder voorwaarden), studiefaciliteiten, een extra verlofregeling voor ouderen en een vergoeding woon-werkverkeer.
+
+Bijzonderheden
+
+    Voor meer informatie over het sollicitatieproces kun je mailen naar bs.vacatures.D@mindef.nl.
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). Het kan je sollicitatie en eventuele loopbaan bij de MIVD schaden en je veiligheid in gevaar brengen.
+    Een veiligheidsonderzoek op niveau A+, eventueel een psychologische onderzoek, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de MIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook je eventuele partner en andere mensen in je omgeving worden mogelijk gescreend.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer vijf maanden in beslag kan nemen.
+
+Meer over jouw toekomstige afdeling
+
+De Joint Sigint Cyber Unit (JSCU) is een gezamenlijke afdeling van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). De JSCU is gespecialiseerd in signals intelligence (sigint) en cyber. Sigint omvat inlichtingen die worden verzameld uit (tele)communicatie. Cyber is een verzamelnaam voor verschillende activiteiten die te maken hebben met computernetwerken en datastromen. Denk hierbij aan het in kaart brengen van het internetlandschap in een (nieuw) missiegebied, het informeren van partners over een gevaarlijk computervirus of het hacken van een website van terroristen die de nationale veiligheid in gevaar brengen.
+

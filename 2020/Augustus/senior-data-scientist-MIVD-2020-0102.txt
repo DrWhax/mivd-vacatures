@@ -1,0 +1,70 @@
+Stand­plaats Zoetermeer
+Contractduur 2 jaar
+Uren per week 38
+Maand­salaris €4.389 - €5.643
+Salaris­niveau schaal 12
+Niveau WO bachelor
+
+Vakgebied ICT
+Reageren voor 30 augustus Nog 12 dagen
+Vacaturenummer 554345
+Plaatsingsdatum 7 augustus 2020
+Dienst­verband Tijdelijke aanstelling met uitzicht op vaste aanstelling
+
+Functie­omschrijving
+
+Word jij enthousiast van algoritmes en wil je creatief met data aan de slag? En kun je niet wachten om slimme technieken in te zetten, bijvoorbeeld om in uiteenlopende gegevensbronnen patronen te ontdekken? Kom dan als senior data-scientist de Militaire Inlichtingen- en Veiligheidsdienst in Den Haag versterken en draag bij aan de veiligheid van Nederland.
+
+Het inlichtingenwerk van de Militaire Inlichtingen- en Veiligheidsdienst (MIVD) bestaat steeds meer uit het verzamelen en analyseren van grote hoeveelheden data uit uiteenlopende bronnen. Bij team Data-science zoek jij uit hoe we in gestructureerde en ongestructureerde gegevensbronnen indicatoren en patronen kunnen ontdekken die ons op het spoor zetten van personen of organisaties met kwade bedoelingen.
+
+Jouw team maakt deel uit van de Joint Sigint Cyber Unit, een gezamenlijke afdeling van de MIVD en de Algemene Inlichtingen- en Veiligheidsdienst (AIVD). Interessant: je werkt dus voor beide inlichtingendiensten. Je richt je bijvoorbeeld op aanslagplanningsdetectie, objectherkenning van dreigende indicatoren in content of detectie van dreigingen van organisaties die deel uitmaken van staatsstructuren.
+
+Jij onderzoekt en modelleert algoritmes op het gebied van data-science, en je programmeert en test schaalbare methodieken. Zo help je onze inlichtingenteams bij het vinden van relevante informatie voor onderzoeken. Jouw technieken zijn geschikt voor operationeel gebruik, breed inzetbaar en respecteren de wetgeving.
+
+Als senior geef je ook sturing aan je collega’s en projecten. En je krijgt de vrijheid om te experimenteren en om creativiteit en nieuwsgierigheid volop in te zetten; wij stimuleren je om samen met jouw collega's aan oplossingen te werken. Zowel binnen je team en de beide diensten als met onze nationale en internationale partners in de inlichtingen- en veiligheidsketen. Grijp deze kans om militaire missies te ondersteunen en mee te werken aan het veilig houden van Nederland.
+
+Functie-eisen
+
+Jij wilt weten wat er in de wereld gebeurt en kijkt daar met een onderzoekende blik en een scherp analytisch vermogen naar. Daardoor ben je in staat om op een weloverwogen manier de juiste conclusies te trekken. Je wilt weten welke mogelijkheden er zijn en verliest het uiteindelijke doel voor jouw klanten niet uit het oog. Jouw doorzettingsvermogen komt hierbij goed van pas. Wat we verder van je vragen:
+
+    Je hebt wo-niveau.
+    Je hebt minimaal vijf jaar aantoonbare ervaring met het onderzoeken, ontwikkelen en testen van data-science-technieken.
+    Je hebt diepgaande kennis en ervaring op het vakgebied en aantoonbare ervaring in het begeleiden van collega-data-scientists en het operationaliseren van producten.
+    Je spreekt de verschillende gangbare programmeer- en scripttalen vloeiend en hebt ervaring met het verwerken van data.
+    Je kunt de klantbehoefte vertalen naar innovatieve methodieken.
+    Je weet hoe distributed computing werkt en hebt bij voorkeur praktische ervaring met Hadoop, Hive en Spark.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 12
+    Salaris­omschrijving
+
+    Dit salaris is gebaseerd op een 38-urige werkweek.
+    Maand­salaris Min €4.389  Max. €5.643 (bruto)
+    Dienst­verband Tijdelijke aanstelling met uitzicht op vaste aanstelling
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 38
+    Maximaal aantal uren per week 38
+
+Overige arbeids­voorwaarden
+
+Naast het salaris en vakantiegeld kun je rekenen op een eindejaarsuitkering van 8,33%. Defensie hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer maximaal 75% betaald ouderschapsverlof (onder voorwaarden), studiefaciliteiten, een extra verlofregeling voor ouderen en een vergoeding woon-werkverkeer.
+
+Bijzonderheden
+
+    Mail voor meer informatie over het sollicitatieproces naar BS.Vacatures.D@mindef.nl.
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). Het kan je sollicitatie en eventuele loopbaan bij de MIVD schaden en je veiligheid in gevaar brengen.
+    Een veiligheidsonderzoek op niveau A+, eventueel een psychologisch onderzoek, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de MIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook je eventuele partner en andere mensen in je omgeving worden mogelijk gescreend.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer vijf maanden in beslag kan nemen.
+    De vacature wordt zowel intern als extern Defensie gepubliceerd. Eventuele interne kandidaten worden in de selectieprocedure eerst behandeld, daarna breiden we de selectie uit met externe kandidaten.
+
+Meer over jouw toekomstige afdeling
+
+De Joint Sigint Cyber Unit (JSCU) is gespecialiseerd in signals intelligence (sigint) en cyber. Sigint omvat inlichtingen die worden verzameld uit (tele)communicatie. Cyber is een verzamelnaam voor verschillende activiteiten die te maken hebben met computernetwerken en datastromen. Denk hierbij aan het in kaart brengen van het internetlandschap in een (nieuw) missiegebied, het informeren van partners over een gevaarlijk computervirus of het hacken van een website van terroristen die de nationale veiligheid in gevaar brengen.
+
+Bureau ICT Tooling
+
+Binnen de JSCU werk jij bij het Bureau ICT Tooling. Dit team is dé schakel bij het omzetten van sigint- en cyberdata naar bruikbare informatie voor de inlichtingenteams van zowel de MIVD als AIVD, in Nederland en ver daarbuiten. De ICT-experts, zoals cryptologen, data-scientists, hackers, softwareontwikkelaars en digitaal forensisch specialisten zoals jij, leveren hoogwaardige technische capaciteit voor het verwerken van complexe data uit diverse bronnen.
+
+Boeiend: elke dag werk jij dicht tegen de grens van wat kan en mag om potentiële tegenstanders een stap voor te blijven. En daarin krijg je veel vrijheid: onze zelfsturende DevOps-teams werken agile en je krijgt alle ruimte om je creativiteit in te zetten.
